@@ -596,6 +596,12 @@ technologies = {
 		anti_air_brigade = {
 			air_attack = 0.1
 		}
+		destroyer = {
+			anti_air_attack = 0.05
+		}
+		light_cruiser = {
+			anti_air_attack = 0.05
+		}
 
 		path = {
 			leads_to_tech = antiair2
@@ -629,6 +635,12 @@ technologies = {
 		## Added
 		category_spaa_armor = {
 			soft_attack = 0.05
+		}
+		destroyer = {
+			anti_air_attack = 0.05
+		}
+		light_cruiser = {
+			anti_air_attack = 0.05
 		}
 
 		#anti_air = {
@@ -675,6 +687,12 @@ technologies = {
 			air_attack = 0.1
 			soft_attack = 0.05
 		}
+		destroyer = {
+			anti_air_attack = 0.05
+		}
+		light_cruiser = {
+			anti_air_attack = 0.05
+		}
 
 		path = {
 			leads_to_tech = antiair4
@@ -712,6 +730,12 @@ technologies = {
 		category_spaa_armor = {
 			air_attack = 0.1
 			soft_attack = 0.05
+		}
+		destroyer = {
+			anti_air_attack = 0.05
+		}
+		light_cruiser = {
+			anti_air_attack = 0.05
 		}
 
 		path = {
@@ -753,6 +777,12 @@ technologies = {
 		## Added
 		category_spaa_armor = {
 			soft_attack = 0.05
+		}
+		destroyer = {
+			anti_air_attack = 0.05
+		}
+		light_cruiser = {
+			anti_air_attack = 0.05
 		}
 
 		research_cost = 1

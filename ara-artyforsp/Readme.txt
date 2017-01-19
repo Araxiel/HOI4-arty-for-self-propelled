@@ -7,6 +7,7 @@ Good example of guns that were both used as towed-variant and mounted in tanks w
 [h1]What this mod does[/h1]
 [list=1]
 [*] Starting from around 1940, most technologies in the artillery tech-tree (and two in the Superior Firepower doctrine) will also improve their relevant self-propelled variants of all types; e.g. AA tech improves light self-propelled AA, medium SPAA, heavy SPAA, super-heavy SPAA and Modern SPAA.
+[*][b]V1.3 Update:[/b] AA artillery upgrades also improve anti-air capabilities of Destroyers and Light Cruisers.
 [/list]
 
 I tried to make it balanced by using slightly downgraded stats that the towed artillery get; you can explain it as the gun being improved, but the improvements not being as noticeable or convertible for the vehicle-mounted variant. Is it actually balanced? I don't know. I did a playthrough with it and it seemed to be okay. But I might adjust the stats slightly if I feel it's too unbalanced later down the line.
@@ -14,7 +15,7 @@ I tried to make it balanced by using slightly downgraded stats that the towed ar
 [h1]Compatibility[/h1]
 One of my aims of all my mods is always as much compatibility as possible.
 
-I tried everything in my power to make it compatible with other mods, patches and such, but I could only get so far. At the very least, this mod is only incompatible with other mods that edit the artillery tech-tree [strike]and that change anything for the self-propelled gun units[/strike], but it is compatible with every other type of mod. This mod is [u]not[/u] ironman compatible.
+I tried everything in my power to make it compatible with other mods, patches and such, but I could only get so far. At the very least, this mod is only incompatible with other mods that edit the artillery tech-tree [strike]and that change anything for the self-propelled gun units[/strike], but it is compatible with every other type of mod.
 [b]Edited Files:[/b][list]
 [*]common\technologies\artillery.txt
 [*][strike]common\units\sp_anti-air_brigade.txt[/strike]
@@ -22,10 +23,13 @@ I tried everything in my power to make it compatible with other mods, patches an
 [*][strike]common\units\tank_destroyer_brigade.txt[/strike]
 [/list]
 
+This mod is [u]not[/u] ironman compatible. 
+
 [h1]To-Do:[/h1][list]
 [*]I'll probably make some better/proper icons for the sp categories.
 [*]I might do a more extensive overhaul of the complete artillery tech-tree in the future. I got some ideas bouncing around in my head and ways to implement them. I don't know if I'll add it to this mod or if I will branch it off into a mod of it's own. Either way, more small artillery improvements will come.
 [*][b]Update:[/b] Maybe some compatibility patch with Road to '56.
+[/list]
 
 [b]V1.2 Codename "Operation We Are Number One"[/b]
 Found further ways to increase compatibility. Also, new vehicles by other mods can very easily be incorporated now. If you run HoI4 in the debug mode, you will see a couple of messages in the error log. This is normal, but not intended. Everything works fine and as intended.
@@ -37,4 +41,4 @@ The game is way more flexible in file-loading than people give it credit to. Thi
 I was also further digging into the Clausewitz Engine trying all kind of ways to have it natively be compatible, but I think the engine is at its (arbitrary) limits. I already mentioned on the official forums the problem I seem to run into and at this point I either hope they're gonna slightly change the way the game loads the technologies, or I'll have an epiphany and find a way around it. But for now; this mod will overwrite the Artillery Tech Tree of any other mod.
 
 [h1]Check out my other HoI4 mods:[/h1]
-[url=http://steamcommunity.com/sharedfiles/filedetails/?id=780512660][img]http://i.imgur.com/HjvGiAd.gif[/img][/url] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=831536727][img]http://i.imgur.com/eL91sme.gif[/img][/url] [img]http://i.imgur.com/2O7c2l3.gif[/img] [url=https://youtu.be/Gs1b4t1RuUU?t=48][img]http://i.imgur.com/9B65x4v.gif[/img][/url] [url=https://youtu.be/Wvv4cfXJllc][img]http://i.imgur.com/Ul5WaI3.gif[/img][/url]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=842654684][img]http://i.imgur.com/PDN680p.gif[/img][/url] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=780512660][img]http://i.imgur.com/HjvGiAd.gif[/img][/url][url=http://steamcommunity.com/sharedfiles/filedetails/?id=831536727][img]http://i.imgur.com/eL91sme.gif[/img][/url][img]http://i.imgur.com/2O7c2l3.gif[/img][url=https://youtu.be/Gs1b4t1RuUU?t=48][img]http://i.imgur.com/9B65x4v.gif[/img][/url][url=https://youtu.be/Wvv4cfXJllc][img]http://i.imgur.com/Ul5WaI3.gif[/img][/url]

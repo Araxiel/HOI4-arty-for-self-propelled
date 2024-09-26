@@ -1,5 +1,8 @@
 # Araxiel's Artillery for Self-Propelled
 
+> [!NOTE]
+> 26/09/24: I updated and changed this mod in 2021 into a new mod I called Adordenances. I uploaded that mod on the steam workshop, but didn't feel like making it into a new repository. As of I'm adding this note, I've yet to make it into a new repository, and I've yet to fully decide if I'm gonna do it or not, because this would be making a repository for a mod that's already 3 years out of date right now, and has minimal changes.
+
 Araxiel's Artillery for Self-Propelled mod for Paradox Interactive's Hearts of Iron 4
 
 [Click here to open a new issue][1]
